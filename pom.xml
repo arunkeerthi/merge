@@ -20,6 +20,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sbi_application</finalName>
+    <finalName>sbi</finalName>
   </build>
 </project>
